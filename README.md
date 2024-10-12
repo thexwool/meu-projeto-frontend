@@ -1,4 +1,4 @@
-# Meu Projeto
+# Front-end
 
 Link Frontend: https://github.com/thexwool/meu-projeto-frontend
 
